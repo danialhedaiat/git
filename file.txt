@@ -1,2 +1,3 @@
-this is my frist file that i have added in to my pository.
-.
+this is my frist file added in to my pository.
+
+it comes before all other files.
